@@ -3,6 +3,6 @@ Lisp programs for 8 puzzle problem using A-Star algorithm and solution for Missi
 To run,
 
 $ clisp
-  load("fileName.lisp") 
+load("fileName.lisp") 
   
 Refer the toRun.pdf file for more details.
